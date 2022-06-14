@@ -1,0 +1,33 @@
+<html>
+<head>
+    <title>Document</title>
+    <style>
+        body{
+            background-color: pink;
+        }
+        div{
+            margin-top: 3%;
+        }
+        .p1{
+            color: red;
+            font-size: 1.5rem;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: bold;
+            text-align: center;
+        }
+        .p2{
+            color:red;
+            font-size: 1rem;
+            font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif ;
+            margin-top: -20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+        <div>
+        <p class="p1">Heading</p>
+        <p class="p2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi eos sunt cupiditate assumenda vero nostrum, qui beatae voluptatibus, veniam molestiae laboriosam tempora quidem vitae repellendus magnam voluptate natus magni impedit? Voluptates distinctio voluptatum incidunt omnis autem aperiam. Porro eum ipsam et possimus, ex esse eaque atque voluptate in omnis eos!</p>
+        </div>
+</body>
+</html>

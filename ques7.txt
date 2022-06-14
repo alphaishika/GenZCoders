@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>question7</title>
+    </head>
+        <style>
+            .container{
+                 display: flex;
+                 justify-content: center;
+            }
+            .box{
+                margin: 2px;
+                height: 200px;
+                width: 200px; 
+            }
+            *{
+                background-color: white;
+            }
+        </style>
+    <body>
+        <div class="container">
+        <div class="box" style="background-color:red; "></div>
+        <div class="box" style="background-color:purple; "></div>
+        <div class="box"  style="background-color:pink; "></div>
+    </div>
+    </body>
+</html>

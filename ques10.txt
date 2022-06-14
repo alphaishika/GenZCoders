@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title></title>
+</head>
+<style>
+    body{
+        background-color: white;
+    }
+</style>
+<body>
+    <div style="background-color:red; width:60vw; padding:3px; margin:40px 0px 0px 0px;">
+        <p style="color:white; text-align: center; font-size:18px;">Shop early for the best selection of holiday favrouites. Shop Now > </p>
+    </div>
+</body>
+</html>
